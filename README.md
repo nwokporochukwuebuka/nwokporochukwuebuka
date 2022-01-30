@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Chukwuebuka2
 - 👀 I’m interested in Python Programming, Data Science and Machine Learning, Artficial Intelligence, Web Development, MATLAB
 - 🌱 I’m currently learning how to build web sites with Django and Flask 
-- 💞️ I’m looking to collaborate on interfacing Python with websites as backend language.
+- 💞️ I’m looking to collaborate on interfacing Python with websites as backend language using Django.
 - 📫 How to reach me is by emailing me on nwokporochkwuebuka@gmail.com
 
 <!---
