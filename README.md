@@ -8,7 +8,7 @@
   </a>
 </h1>
 
-###  <img src="/images/Developer.gif" alt="developer gif"  height="45px">  About Me:
+###  <img src="https://github.com/HalemoGPA/HalemoGPA/blob/main/images/Developer.gif" alt="developer gif"  height="45px">  About Me:
 
 <h6 align="center">I am a software engineer currently building web products with over 1+ years experience. I'm also a technical writer whose vision is to build great products and makes it easy for the world to use. I have experience in tech stack like JavaScript, Python, Django, React, Node.js and SQL/NoSQL databases. I'm interested in AI, Robotics, and blockchain technologies. If I'm not building, you'll see me creating contents.</h6>
 
@@ -35,8 +35,8 @@
 
 - ⚡ Fun fact **I spend more time with my computer than anything else**
 
-
-<h3 align="center">Connect with me:</h3>
+<hr>
+<h3 align="center">Connect with me:</h3><br>
 <p align="center">
 <a href="https://twitter.com/nwokporo_ebuka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codedaddy" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/chukwuebuka-nwokporo-018a98175/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chukwuebuka-nwokporo-018a98175" height="30" width="40" /></a>
