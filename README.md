@@ -90,6 +90,7 @@
 <br>
 
 <!-- BLOG-POST-LIST:START -->
+- [A Guide to npm install: Types, Meanings, and Flags](https://codedaddy.hashnode.dev/a-guide-to-npm-install-types-meanings-and-flags)
 - [Implementing Cache in Nodejs Using Redis](https://codedaddy.hashnode.dev/implementing-cache-in-nodejs-using-redis)
 - [Introduction to Caching Using Redis](https://codedaddy.hashnode.dev/introduction-caching-using-redis)
 - [Getting Started With Node Modules I](https://codedaddy.hashnode.dev/getting-started-with-node-modules-i)
@@ -99,6 +100,7 @@
 - [Why I Became a Software Developer](https://codedaddy.hashnode.dev/why-i-became-a-software-developer)
 - [Recursion In JavaScript](https://codedaddy.hashnode.dev/recursion-in-javascript)
 - [Global HTML Attributes](https://codedaddy.hashnode.dev/global-html-attributes)
+- [How to clone a branch in Git](https://www.educative.io/answers/how-to-clone-a-branch-in-git)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
