@@ -101,6 +101,7 @@
 - [Recursion In JavaScript](https://codedaddy.hashnode.dev/recursion-in-javascript)
 - [Global HTML Attributes](https://codedaddy.hashnode.dev/global-html-attributes)
 - [How to clone a branch in Git](https://www.educative.io/answers/how-to-clone-a-branch-in-git)
+- [How to Install chai in JavaScript](https://www.educative.io/answers/how-to-install-chai-in-javascript)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
