@@ -90,6 +90,7 @@
 <br>
 
 <!-- BLOG-POST-LIST:START -->
+- [Anatomy of an API Request](https://codedaddy.hashnode.dev/anatomy-of-an-api-request-part-one)
 - [What is ExpressJWT](https://algoideas.com/what-is-expressjwt/)
 - [API 101: A Beginner's Guide to Application Programming Interfaces (Part Two)](https://codedaddy.hashnode.dev/api101-a-beginners-guide-to-application-programming-interfaces-part-two)
 - [API 101: A Beginner's Guide to Application Programming Interfaces (Part One)](https://codedaddy.hashnode.dev/api-101-a-beginners-guide-to-application-programming-interfaces-part-one)
