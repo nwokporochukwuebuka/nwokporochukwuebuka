@@ -1,6 +1,6 @@
 <!-- <h1 align="center">Hi 👋, I,m Chukwuebuka Victor</h1>
  -->
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Chukwuebuka2/Chukwuebuka2" alt="Chukwuebuka2"> 
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=nwokporochukwuebuka/nwokporochukwuebuka" alt="nwokporochukwuebuka"> 
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -12,9 +12,9 @@
 
 <h6 align="center">I am a software engineer currently building web products with over 1+ years experience. I'm also a technical writer whose vision is to build great products and makes it easy for the world to use. I have experience in tech stack like JavaScript, Python, Django, React, Node.js and SQL/NoSQL databases. I'm interested in AI, Robotics, and blockchain technologies. If I'm not building, you'll see me creating contents.</h6>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Chukwuebuka2&label=Profile%20views&color=0e75b6&style=plastic" alt="Chukwuebuka2" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nwokporochukwuebuka&label=Profile%20views&color=0e75b6&style=plastic" alt="nwokporochukwuebuka" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Chukwuebuka2" alt="Chukwuebuka2" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nwokporochukwuebuka" alt="nwokporochukwuebuka" /></a> </p>
 
 
 <p align="left"> <a href="https://twitter.com/nwokporo_ebuka" target="blank"><img src="https://img.shields.io/twitter/follow/nwokporo_ebuka?logo=twitter&style=for-the-badge" alt="nwokporo_ebuka"/></a> </p>
@@ -43,11 +43,11 @@
 <a href="https://stackoverflow.com/users/13995704/chukwuebuka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13995704" height="30" width="40" /></a>
 <a href=https://fb.com/chukwuebuka.nwokporo.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chukwuebuka.nwokporo.9" height="30" width="40" /></a>
 <a href="https://www.instagram.com/chukwuebukanwokporo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chukwuebukanwokporo" height="30" width="40" /></a>
-<a href="https://medium.com/@nwokporochukwuebuka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt=Chukwuebuka2" height="30" width="40" /></a>
+<a href="https://medium.com/@nwokporochukwuebuka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt=nwokporochukwuebuka" height="30" width="40" /></a>
 <a href="https://codedaddy.hashnode.dev/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://dexcodes.hashnode.dev/rss.xml" height="30" width="40" /></a>
-<a href="https://github.com/Chukwuebuka2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="https:/github.com/Chukwuebuka2" height="30" width="40" /></a>
+<a href="https://github.com/nwokporochukwuebuka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="https:/github.com/nwokporochukwuebuka" height="30" width="40" /></a>
 <a href="wa.me/2349032513401" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="wa.me/2349032513401" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@nwokporochukwuebuka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@Chukwuebuka2" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@nwokporochukwuebuka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@nwokporochukwuebuka" height="30" width="40" /></a>
 </p>
 
 <hr>
@@ -77,11 +77,11 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Chukwuebuka2&show_icons=true&theme=dracula&locale=en&layout=compact" alt="Chukwuebuka2" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nwokporochukwuebuka&show_icons=true&theme=dracula&locale=en&layout=compact" alt="nwokporochukwuebuka" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Chukwuebuka2&show_icons=true&theme=dracula&locale=en" alt="Chukwuebuka2" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nwokporochukwuebuka&show_icons=true&theme=dracula&locale=en" alt="nwokporochukwuebuka" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Chukwuebuka2&theme=dark" alt="Chukwuebuka2" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nwokporochukwuebuka&theme=dark" alt="nwokporochukwuebuka" /></p>
 
 <hr>
 
@@ -90,6 +90,8 @@
 <br>
 
 <!-- BLOG-POST-LIST:START -->
+- [Enhancing Your React Native App: A Guide to Custom Fonts](https://codedaddy.hashnode.dev/enhancing-your-react-native-app-a-guide-to-custom-fonts)
+- [What you need to know about React Native](https://codedaddy.hashnode.dev/what-you-need-to-know-about-react-native)
 - [Anatomy of an API Request](https://codedaddy.hashnode.dev/anatomy-of-an-api-request-part-one)
 - [What is ExpressJWT](https://algoideas.com/what-is-expressjwt/)
 - [API 101: A Beginner's Guide to Application Programming Interfaces (Part Two)](https://codedaddy.hashnode.dev/api101-a-beginners-guide-to-application-programming-interfaces-part-two)
@@ -114,10 +116,10 @@
 </p>
 
 <p  align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Chukwuebuka2/Chukwuebuka2" alt="Chukwuebuka2"/>       
+<img src="https://visitor-badge.laobi.icu/badge?page_id=nwokporochukwuebuka/nwokporochukwuebuka" alt="nwokporochukwuebuka"/>       
 </p>
 
 <!---
-Chukwuebuka2/Chukwuebuka2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+nwokporochukwuebuka/nwokporochukwuebuka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
