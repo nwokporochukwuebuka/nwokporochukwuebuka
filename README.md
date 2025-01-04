@@ -90,6 +90,7 @@
 <br>
 
 <!-- BLOG-POST-LIST:START -->
+- [Easy Steps to Use Multiple GitHub Accounts on Your Mac](https://codedaddy.hashnode.dev/easy-steps-to-use-multiple-github-accounts-on-your-mac)
 - [Enhancing Your React Native App: A Guide to Custom Fonts](https://codedaddy.hashnode.dev/enhancing-your-react-native-app-a-guide-to-custom-fonts)
 - [What you need to know about React Native](https://codedaddy.hashnode.dev/what-you-need-to-know-about-react-native)
 - [Anatomy of an API Request](https://codedaddy.hashnode.dev/anatomy-of-an-api-request-part-one)
